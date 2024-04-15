@@ -1,0 +1,34 @@
+.contenedor{
+
+width: 100%;
+height: 2000px;
+background-color:rgb(192, 243, 226) ;
+display: flex;
+flex-direction: column;
+}
+
+.encabezado {
+
+width:100%;
+height: 180px;
+background-color: rgb(235, 169, 169);
+
+}
+
+.matematicas{
+width:100%;
+height:550px;
+background-color: rgb(201, 249, 255);
+}
+
+.tecnologia{
+width:100%;
+height:490px;
+background-color: rgb(240, 207, 170);}
+
+.ingles{
+    width:100%;
+    height:490px;
+    background-color:rgb(204, 162, 243)
+
+}
